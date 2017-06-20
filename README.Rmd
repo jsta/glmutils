@@ -1,0 +1,32 @@
+---
+output: github_document
+---
+[![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](http://www.repostatus.org/badges/latest/wip.svg)](http://www.repostatus.org/#wip)
+[![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/glmutils)](https://cran.r-project.org/package=glmutils)
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, echo = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "README-"
+)
+```
+
+# glmutils
+
+Utility functions for working with the General Lake Model.
+
+## Installation
+
+You can install glmutils from github with:
+
+```{r gh-installation, eval = FALSE}
+# install.packages("devtools")
+devtools::install_github("jsta/glmutils")
+```
+
+## Example
+
+Forthcoming!
